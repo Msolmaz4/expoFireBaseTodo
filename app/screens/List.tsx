@@ -107,6 +107,9 @@ deleteDoc(ref)
   );
 };
 
+
+
+export default List;
 const styles = StyleSheet.create({
   container: {
     marginHorizontal:20,
@@ -141,5 +144,3 @@ paddingHorizontal:4,
   }
 
 });
-
-export default List;
